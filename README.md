@@ -1,6 +1,8 @@
 # C++ Console Snake
 Snake game in terminal, created using C++ and STL in Microsoft Visual Studio 2022.
 
+<img width="1087" height="577" alt="image" src="https://github.com/user-attachments/assets/15005604-2c8e-4972-a004-3eb03fc62b19" />
+
 # Table of contents
 1. [Useful links](#useful_links)
 2. [Project](#project)\
